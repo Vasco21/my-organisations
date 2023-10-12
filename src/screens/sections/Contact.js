@@ -67,7 +67,7 @@ const Contact = () => {
             <p className="section-subtitle mr-auto ml-auto">
               Have a question or need to get in touch? Fill out the form below
               and we will get back to you as soon as possible. If your inquiry
-              is urgent, please call us at +27 81 319 0025 to talk to one of our
+              is urgent, please call us at +27 63 317 9828 to talk to one of our
               staff members.
             </p>
           </div>
