@@ -9,7 +9,7 @@
 </table>
 
 ## Demo
-Here is a working live demo :  https://creative-power-org.netlify.app
+Here is a working live demo :  https://creativepower-org.netlify.app
 
 ## Site
 
@@ -22,9 +22,6 @@ You can register a new account or login with an existing one.
 
 ### Edit Profile
 <a href="https://res.cloudinary.com/creative-power/image/upload/v1655901990/Creative-Power-Org/profile_cxls3p.png" target="_blank">Edit Profile</a>
-
-### Create a Note
-<a href="https://res.cloudinary.com/creative-power/image/upload/v1655901984/Creative-Power-Org/createNote_o1hmg5.png" target="_blank">Create a Note</a>
 
 ## Built with 
 
